@@ -1,0 +1,7 @@
+*.css.map
+*.sass.map
+*.scss.map
+
+images/
+
+node_modules/
